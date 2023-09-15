@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">API integration v.2</string>
+    <string name="namn">Sparoptimering</string>
+    <string name="header">Mina sparmål</string>
+    <string name="logOut">Logga ut</string>
+    <string name="Create">Skapa sparmål</string>
+    <string name="login">Logga in med Google</string>
+    <string name="headerCreate">Skapa sparmål</string>
+    <string name="when">Ange när du ska nå ditt mål</string>
+    <!-- fragment -->
+    <string name="add">Lägg till</string>
+    <string name="default_web_client_id" />
+    <string name="preference_file_key" />
+</resources>

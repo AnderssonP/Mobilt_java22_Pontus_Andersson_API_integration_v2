@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272101306465",
+    "project_id": "savings-acbc2",
+    "storage_bucket": "savings-acbc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272101306465:android:b54c7df50c8ef4d0da7a20",
+        "android_client_info": {
+          "package_name": "com.example.apiintegrationv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272101306465-3enilbi78dofrudipnc92qmh4argf7su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbla9ehhLYwtToIV89HecE-SU2tteobPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272101306465-3enilbi78dofrudipnc92qmh4argf7su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
